@@ -52,6 +52,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 - [AgileTour](./agiletour/)
 - [DevFest Nantes](./devfest-nantes/)
+- [GenAI Days Nantes](https://genai-days-nantes.com/)
 - [Hackathons Shift](https://shift-hackathon.com/)
 - [Mobilis In Mobile](https://mobilis-in-mobile.io/)
 - [Nantes Digital Week](https://www.nantesdigitalweek.com/) (avec le [Salon de la Data](https://salondata.fr/))
